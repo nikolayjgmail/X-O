@@ -1,3 +1,5 @@
+//2
+
 import React, {Component} from 'react';
 import Cell from './cell';
 import './App.css';
@@ -66,3 +68,6 @@ this.changePlayer()
 }
 }
 export default App;
+
+
+
